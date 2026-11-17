@@ -11,6 +11,7 @@ This repository contains my Software Engineering lab assignments, source code, d
 | Lab 3 | Software Architecture Selection | UML component diagram and architectural justification |
 | Lab 4 | VibeCoding | Fruit Catcher game, before/after demonstration videos, and LLM conversation history |
 | Lab 5 | Static Code Analysis | Auction-bidding application, testing, code analysis reports, issue documentation, and reflections |
+| Lab 7 | Fuzzing for Input Validation Bugs | Bowling Alley parser, Hypothesis fuzz tests, hardened Python implementation, screenshots, and final report |
 | Additional Labs | Other Software Engineering Labs | Organized assignment files and supporting materials, where applicable |
 
 *The exact contents of each folder depend on the files included in the corresponding lab submission.*
